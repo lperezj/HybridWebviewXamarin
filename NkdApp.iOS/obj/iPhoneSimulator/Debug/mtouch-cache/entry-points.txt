@@ -1,0 +1,130 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMessagingMessageInfo
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingConnectionStateChangedNotification
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingMessagesDeletedNotification
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingRegistrationTokenRefreshedNotification
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingSendErrorNotification
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+Field=FIRMessagingSendSuccessNotification
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMessaging
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMessagingExtensionHelper
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMessagingRemoteMessage
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.CloudMessaging.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRApp
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRConfiguration
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROptions
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.Core.dll
+Field=FIRInstallationIDDidChangeNotification
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.Installations.dll
+Field=kFIRInstallationIDDidChangeNotificationAppNameKey
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.Installations.dll
+Field=FirebaseInstallationsVersionString
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.Installations.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRInstallations
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.Installations.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRInstallationsAuthTokenResult
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.Installations.dll
+Field=kFIRInstanceIDScopeFirebaseMessaging
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.InstanceID.dll
+Field=kFIRInstanceIDTokenRefreshNotification
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.InstanceID.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRInstanceID
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.InstanceID.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRInstanceIDResult
+	/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Firebase.InstanceID.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application x:Class="NkdApp.App"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <Application.Resources>
+        <x:Double x:Key="HeaderHeigthAndroid">0</x:Double>
+        <x:Double x:Key="HeaderHeigthIos">56</x:Double>
+
+        <OnPlatform x:Key="HeaderHeight"
+                    x:TypeArguments="GridLength">
+            <On Platform="iOS"
+                Value="{StaticResource HeaderHeigthIos}" />
+            <On Platform="Android"
+                Value="{StaticResource HeaderHeigthAndroid}" />
+        </OnPlatform>
+    </Application.Resources>
+</Application>

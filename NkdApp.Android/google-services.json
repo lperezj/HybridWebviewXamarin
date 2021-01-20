@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904470887704",
+    "firebase_url": "https://nkd-dev-f77e9.firebaseio.com",
+    "project_id": "nkd-dev-f77e9",
+    "storage_bucket": "nkd-dev-f77e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904470887704:android:6fb5fad3e732be0f59326d",
+        "android_client_info": {
+          "package_name": "com.trylikes.nkd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904470887704-o6b4ju8ne31i31916mb6vkshfqkjt4al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqXRjyYQfUoJMwuWRRlG17XxqwuZPOcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904470887704-o6b4ju8ne31i31916mb6vkshfqkjt4al.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904470887704-1o1ugr8o87l46qg04pfnvah2hubcja5r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trylikes.nkd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

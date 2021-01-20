@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kno0RSKNRsLK2Rnt/mVXqQV3iLvuQvdosQenQw/MWGkyNS5ur/vkY63Z+DbUITmC5Z8AxmnJ6gLaM4Q06vUw9Q==",
+  "success": true,
+  "projectFilePath": "/Users/758792/Projects/nkd-portal/packages/xamarin/NkdApp.iOS/NkdApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/758792/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/plugin.pushnotification/3.3.3/plugin.pushnotification.3.3.3.nupkg.sha512",
+    "/Users/758792/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/758792/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/system.text.encodings.web/5.0.0/system.text.encodings.web.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/xam.plugin.media/5.0.1/xam.plugin.media.5.0.1.nupkg.sha512",
+    "/Users/758792/.nuget/packages/xamarin.build.download/0.10.0/xamarin.build.download.0.10.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/758792/.nuget/packages/xamarin.firebase.ios.cloudmessaging/4.7.1/xamarin.firebase.ios.cloudmessaging.4.7.1.nupkg.sha512",
+    "/Users/758792/.nuget/packages/xamarin.firebase.ios.core/6.10.4/xamarin.firebase.ios.core.6.10.4.nupkg.sha512",
+    "/Users/758792/.nuget/packages/xamarin.firebase.ios.installations/1.7.0/xamarin.firebase.ios.installations.1.7.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/xamarin.firebase.ios.instanceid/4.8.0/xamarin.firebase.ios.instanceid.4.8.0.nupkg.sha512",
+    "/Users/758792/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512",
+    "/Users/758792/.nuget/packages/zxing.net.mobile/2.4.1/zxing.net.mobile.2.4.1.nupkg.sha512",
+    "/Users/758792/.nuget/packages/zxing.net.mobile.forms/2.4.1/zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
